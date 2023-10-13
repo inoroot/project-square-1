@@ -47,7 +47,7 @@ const CaseStudies: FC = () => {
                 <div className="left-[3.75rem] leading-[150%]">Case studies</div>
             </div>
 
-            <div className="mt-16 bg-orange-300">
+            <div className="mt-16">
                 <Carousel arrows={true} infinite={true} responsive={responsive}>
                     <div>
                         <CaseStudy
