@@ -16,7 +16,7 @@ $ npm run dev
 ```
 
 ## Browser
-Application should be accessible on http://localhost:4001
+Application should be accessible on http://localhost:4000
 
 ## Main Tools and Libraries used
 Redux RTK Queries - used for API calls and abstraction.
